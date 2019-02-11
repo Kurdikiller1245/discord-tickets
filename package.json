@@ -4,7 +4,7 @@
   "description": "Open-Source, lightweight Discord ticket bot",
   "main": "src/index.js",
   "scripts": {
-    "test": "npm i"
+    "test": "node src/index.js"
   },
   "repository": {
     "type": "git",
