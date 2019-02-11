@@ -1,8 +1,8 @@
 {
-  "token": "BOT TOKEN",
+  "token": "NTQ0NTgzMjgxMjQxMzU4MzU2.D0NOQw.r7uRr5ZPweC7dI7H88T3a5x3DlM",
   "prefix": ".",
-  "server": "SERVER ID",
-  "category": "CHANNEL CATEGORY ID",
+  "server": "379276995764420608",
+  "category": "544578384932634660",
   "port": 3001,
-  "baseurl": "http(s)://YOUR SITE HERE.COM"
+  "baseurl": "http(s)://relaxcraft.org"
 }
