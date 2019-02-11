@@ -64,4 +64,4 @@ fs.readdir(path.join(__dirname, 'commands'), (error, commands) => {
   });
 });
 
-client.login(process.env.BOT_TOKEN);
+app.listen(config.port);
