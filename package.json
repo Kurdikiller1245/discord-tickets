@@ -16,17 +16,10 @@
     "Bot",
     "Eris"
   ],
-  "author": "MercyDoesCode",
-  "license": "MIT",
+  "author": "X_Just_RelaX_X",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/MercyDoesCode/discord-tickets/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/MercyDoesCode/discord-tickets#readme",
-  "dependencies": {
-    "chalk": "^2.4.1",
-    "dateformat": "^3.0.3",
-    "eris": "^0.8.6",
-    "express": "^4.16.3",
-    "rethinkdbdash": "^2.3.31"
   }
 }
