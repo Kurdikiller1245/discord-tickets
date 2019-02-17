@@ -64,4 +64,4 @@ fs.readdir(path.join(__dirname, 'commands'), (error, commands) => {
   });
 });
 
-client.login(NTQ0NTgzMjgxMjQxMzU4MzU2.D0pNVg.TG0OXq5GRyx-Iv8VIy4wJWIqFq8);
+client.login(process.env.BOT_TOKEN);
